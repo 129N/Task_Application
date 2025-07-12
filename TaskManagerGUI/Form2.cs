@@ -16,12 +16,14 @@ namespace TaskManagerGUI
 
         public int CompletedStatus { get; set; }
 
+
+        //通常のコンストラクタ
         public Form2()
         {
             InitializeComponent();
         }
 
-        //編集用のコンストラクタの追加
+        //編集用のコンストラクタの追加　新規と既存をここで分ける。
         public Form2(TaskItem existingTask) : this()
         {
             // 既存のタスクの情報を入力欄に反映させる
@@ -44,10 +46,13 @@ namespace TaskManagerGUI
             }
 
             // 編集対象タスクの ID を保持したいなら TaskItem にプロパティを残しておいてもOK
-            CreatedTask = existingTask;
+            CreatedTask = existingTask.clone();
 
 
         }
+
+       
+
 
         private void AddTaskButton_Click(object sender, EventArgs e)
         {

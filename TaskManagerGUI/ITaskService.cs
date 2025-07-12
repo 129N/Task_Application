@@ -14,11 +14,10 @@ namespace TaskApplication
 
          void AddTask(TaskItem taskItem);
          void RemoveTask(int Id);
-         void priorityCheck(int priority);
+         //void priorityCheck(int priority);
          void MarkCompleted(int Id);
         void UpdateTask(int id, TaskItem updatedTask);
 
-    
         //List で一覧を表示
          List<TaskItem> GetAllTasks();
 
@@ -47,31 +46,31 @@ namespace TaskApplication
         }
 
 
-        public void priorityCheck(int priority)
-        {
-            switch (priority)
-            {
-                case 1:
-                    Console.WriteLine(1 + "is low priority");
-                    break;
-                case 2:
-                    Console.WriteLine(2 + "is med-low priority");
-                    break;
-                case 3:
-                    Console.WriteLine(3 + "is normal priority");
-                    break;
-                case 4:
-                    Console.WriteLine(4 + "is med-high priority");
-                    break;
-                case 5:
-                    Console.WriteLine(5 + "is high priority");
-                    break;
+        //public void priorityCheck(int priority)
+        //{
+        //    switch (priority)
+        //    {
+        //        case 1:
+        //            Console.WriteLine(1 + "is low priority");
+        //            break;
+        //        case 2:
+        //            Console.WriteLine(2 + "is med-low priority");
+        //            break;
+        //        case 3:
+        //            Console.WriteLine(3 + "is normal priority");
+        //            break;
+        //        case 4:
+        //            Console.WriteLine(4 + "is med-high priority");
+        //            break;
+        //        case 5:
+        //            Console.WriteLine(5 + "is high priority");
+        //            break;
 
-                default:
-                    Console.WriteLine(1 + "is low priority");
-                    break;
-            }
-        }
+        //        default:
+        //            Console.WriteLine(1 + "is low priority");
+        //            break;
+        //    }
+        //}
 
         public void MarkCompleted(int id)
         {

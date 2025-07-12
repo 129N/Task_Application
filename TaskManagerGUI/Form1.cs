@@ -40,6 +40,8 @@ namespace TaskManagerGUI
             RefreshTaskList();
         }
 
+
+        //Add buttonはここにある。
         private void AddButtonForm1(object sender, EventArgs e)
         {
 
