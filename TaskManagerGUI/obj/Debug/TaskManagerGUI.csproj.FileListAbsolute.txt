@@ -1,0 +1,15 @@
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\bin\Debug\TaskManagerGUI.exe.config
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\bin\Debug\TaskManagerGUI.exe
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\bin\Debug\TaskManagerGUI.pdb
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.csproj.AssemblyReference.cache
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.Form1.resources
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.Form2.resources
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.Properties.Resources.resources
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.csproj.GenerateResource.cache
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.csproj.CoreCompileInputs.cache
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.exe
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.pdb
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskManagerGUI.exe.config
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itsuk\source\repos\TaskManagerGUI\TaskManagerGUI\obj\Debug\TaskMana.42DC12A0.Up2Date
